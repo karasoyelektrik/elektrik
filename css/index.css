@@ -89,20 +89,23 @@ margin-top:30px;
  padding-bottom:45px;
  }
 .info_1i{
- background-image: url(../img/7.jpg);
+ background-image: url(../resimler/uydu.jpg);
  background-position:center;
   transform: rotate(-15deg);
+  background-size: 70ex;
  }
 .info_1i:hover{
   transform: rotate(0deg);
  }
 .info_1io{
- background-image: url(../img/5.jpg);
+ background-image: url(../resimler/sohben.jpg);
   background-position:center;
+  background-size: 70ex;
  }
 .info_1io1{
- background-image: url(../img/6.jpg);
+ background-image: url(../resimler/reklam.jpg);
   background-position:center;
+  background-size: 80ex;
  }
 .info_1im{
  padding:160px 40px;
